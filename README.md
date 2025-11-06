@@ -32,9 +32,9 @@ node server.js
 
 > [!NOTE]
 > #### Default settings
-> Broker: localhost:1883
-> Authentication: no user / password
-> Filter: Subscribe to all topics
+> - Broker: localhost:1883
+> - Authentication: no user / password
+> - Filter: Subscribe to all topics
 
 To specify any (or all) of the parameters use command line switches (long form only):
 
