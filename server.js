@@ -73,5 +73,5 @@ io.on("connection", (socket) => {
 
 // Start server
 server.listen(3000, () => {
-  console.log("Vis running on http://localhost:3000");
+  console.log("Vis running! Check port 3000");
 });
